@@ -8,3 +8,7 @@
 const Myconst = "true";
 ```
 
+- [ ] To do all tasks
+- [ ] Use  them in practice
+- [ ] Be succesfull
+
